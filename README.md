@@ -1,4 +1,4 @@
 titanBPM
 ========
 
-BPM open source
+BPM open source 1.0
